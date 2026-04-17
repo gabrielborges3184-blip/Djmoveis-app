@@ -145,7 +145,7 @@ export default function Catalog() {
                 </h3>
                 <p className="text-gray-500 mb-6">Tente outro filtro ou entre em contato conosco.</p>
                 <a
-                  href="https://api.whatsapp.com/send?phone=5534991818080&text=Olá! Estou procurando um produto específico."
+                  href="https://api.whatsapp.com/send?phone=5534991133526&text=Olá! Estou procurando um produto específico."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-6 py-3 rounded-xl font-bold text-sm"

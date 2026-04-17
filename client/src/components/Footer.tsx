@@ -40,7 +40,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <Phone size={16} style={{ color: "#D4A017" }} />
-                <a href="tel:+5534991818080" className="hover:text-[#D4A017] transition-colors">(34) 9181-8080</a>
+                <a href="tel:+5534991133526" className="hover:text-[#D4A017] transition-colors">(34) 9911-3526</a>
               </li>
               <li className="flex items-center gap-3 mt-4">
                 <a
@@ -64,7 +64,7 @@ export default function Footer() {
                   <Facebook size={18} />
                 </a>
                 <a
-                  href="https://api.whatsapp.com/send?phone=5534991818080"
+                  href="https://api.whatsapp.com/send?phone=5534991133526"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-9 h-9 rounded-full flex items-center justify-center hover:opacity-80 transition-opacity"

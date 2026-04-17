@@ -38,3 +38,6 @@
 - [x] Teste de login com credenciais válidas e inválidas
 - [x] Teste de listagem de produtos
 - [x] Teste de criação de produto (admin)
+
+## Ajustes Solicitados
+- [x] Adicionar número de contato (34) 99113-3526 em toda a interface
