@@ -32,7 +32,7 @@
 - [x] Logo DJ Móveis presente no header
 - [x] Gerar/fazer upload do logo como asset
 - [x] Tipografia e estilo visual fiel à marca
-- [ ] Favicon com logo da loja
+- [x] Favicon com logo da loja
 
 ## Testes
 - [x] Teste de login com credenciais válidas e inválidas
