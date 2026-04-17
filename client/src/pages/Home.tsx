@@ -69,9 +69,9 @@ export default function Home() {
         <div className="container">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-center">
             {[
-              { icon: "🚚", title: "Entrega Grátis", desc: "Em até 70 km" },
+              { icon: "🚚", title: "Entrega Grátis", desc: "Para toda Uberlândia" },
               { icon: "🔧", title: "Montagem Grátis", desc: "Equipe especializada" },
-              { icon: "💳", title: "Até 10x", desc: "No boleto ou cartão" },
+              { icon: "💳", title: "Até 36x", desc: "Cartão Brasil Card" },
             ].map(item => (
               <div key={item.title} className="flex items-center gap-3 justify-center">
                 <span className="text-2xl">{item.icon}</span>

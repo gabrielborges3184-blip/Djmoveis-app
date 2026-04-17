@@ -161,8 +161,8 @@ export default function StoreInfo() {
               <h3 className="font-bold text-gray-800 mb-4" style={{ fontFamily: "Montserrat, sans-serif" }}>Por que escolher a DJ Móveis?</h3>
               <ul className="space-y-3 text-sm text-gray-600">
                 {[
-                  { icon: "🚚", text: "Entrega e montagem grátis em até 70 km" },
-                  { icon: "💳", text: "Parcelamento em até 10x no boleto ou cartão" },
+                  { icon: "🚚", text: "Entrega e montagem grátis para toda Uberlândia" },
+                  { icon: "💳", text: "Parcelamento: até 36x Cartão Brasil Card ou até 18x Cartão de Crédito" },
                   { icon: "✅", text: "Agilidade, credibilidade e compromisso" },
                   { icon: "🏠", text: "Móveis modernos com design e qualidade" },
                   { icon: "👷", text: "Equipe especializada em montagem" },

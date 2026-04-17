@@ -42,3 +42,5 @@
 ## Ajustes Solicitados
 - [x] Adicionar número de contato (34) 99113-3526 em toda a interface
 - [x] Atualizar números de contato: (34) 99181-8080 (WhatsApp), (34) 99113-3526, (34) 99680-7663
+- [x] Alterar texto de entrega de "Em até 70 km" para "Entrega Grátis para toda Uberlândia"
+- [x] Alterar parcelamento: Cartão Brasil Card até 36x, Cartão de Crédito até 18x

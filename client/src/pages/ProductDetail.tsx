@@ -114,7 +114,7 @@ export default function ProductDetail() {
                 <span className="text-3xl font-extrabold" style={{ color: "#D4A017" }}>
                   R$ {Number(product.price).toLocaleString("pt-BR", { minimumFractionDigits: 2 })}
                 </span>
-                <p className="text-sm text-gray-500 mt-1">Parcelamento em até 10x no boleto ou cartão</p>
+                <p className="text-sm text-gray-500 mt-1">Até 36x Cartão Brasil Card ou até 18x Cartão de Crédito</p>
               </div>
             )}
 
@@ -129,16 +129,16 @@ export default function ProductDetail() {
             <div className="rounded-xl p-4 mb-6 border" style={{ borderColor: "#D4A017", backgroundColor: "#fffbf0" }}>
               <div className="grid grid-cols-2 gap-3 text-sm">
                 <div className="flex items-center gap-2 text-gray-700">
-                  <span>🚚</span> Entrega grátis até 70 km
+                  <span>🚚</span> Entrega grátis para toda Uberlândia
                 </div>
                 <div className="flex items-center gap-2 text-gray-700">
                   <span>🔧</span> Montagem grátis
                 </div>
                 <div className="flex items-center gap-2 text-gray-700">
-                  <span>💳</span> Até 10x no cartão
+                  <span>💳</span> Até 36x Brasil Card
                 </div>
                 <div className="flex items-center gap-2 text-gray-700">
-                  <span>✅</span> Qualidade garantida
+                  <span>💳</span> Até 18x Crédito
                 </div>
               </div>
             </div>
