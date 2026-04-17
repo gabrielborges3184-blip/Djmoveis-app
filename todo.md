@@ -41,3 +41,4 @@
 
 ## Ajustes Solicitados
 - [x] Adicionar número de contato (34) 99113-3526 em toda a interface
+- [x] Atualizar números de contato: (34) 99181-8080 (WhatsApp), (34) 99113-3526, (34) 99680-7663

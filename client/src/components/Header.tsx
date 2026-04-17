@@ -52,7 +52,7 @@ export default function Header() {
 
           {/* WhatsApp CTA */}
           <a
-            href="https://api.whatsapp.com/send?phone=5534991133526&text=Olá! Vi o catálogo da DJ Móveis e gostaria de mais informações."
+            href="https://api.whatsapp.com/send?phone=5534991818080&text=Olá! Vi o catálogo da DJ Móveis e gostaria de mais informações."
             target="_blank"
             rel="noopener noreferrer"
             className="hidden md:flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-bold transition-all hover:opacity-90"
@@ -92,7 +92,7 @@ export default function Header() {
               </Link>
             ))}
             <a
-              href="https://api.whatsapp.com/send?phone=5534991133526&text=Olá! Vi o catálogo da DJ Móveis e gostaria de mais informações."
+              href="https://api.whatsapp.com/send?phone=5534991818080&text=Olá! Vi o catálogo da DJ Móveis e gostaria de mais informações."
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 px-4 py-3 rounded-lg text-sm font-bold mt-2"

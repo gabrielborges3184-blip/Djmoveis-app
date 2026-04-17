@@ -146,7 +146,7 @@ export default function ProductDetail() {
             {/* CTAs */}
             <div className="flex flex-col sm:flex-row gap-3 mt-auto">
               <a
-                href={`https://api.whatsapp.com/send?phone=5534991133526&text=${encodeURIComponent(whatsappMsg)}`}
+                href={`https://api.whatsapp.com/send?phone=5534991818080&text=${encodeURIComponent(whatsappMsg)}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 flex items-center justify-center gap-2 px-6 py-4 rounded-xl font-bold text-base transition-all hover:opacity-90"
@@ -156,7 +156,7 @@ export default function ProductDetail() {
                 Pedir pelo WhatsApp
               </a>
               <a
-                href="tel:+5534991133526"
+                href="tel:+5534991818080"
                 className="flex items-center justify-center gap-2 px-6 py-4 rounded-xl font-bold text-base border-2 transition-all hover:opacity-80"
                 style={{ borderColor: "#0D1B3E", color: "#0D1B3E" }}
               >

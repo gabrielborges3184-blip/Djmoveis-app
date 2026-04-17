@@ -51,7 +51,7 @@ export default function Home() {
                 Ver Catálogo <ArrowRight size={18} />
               </Link>
               <a
-                href="https://api.whatsapp.com/send?phone=5534991133526&text=Olá! Gostaria de mais informações sobre os móveis."
+                href="https://api.whatsapp.com/send?phone=5534991818080&text=Olá! Gostaria de mais informações sobre os móveis."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-xl font-bold text-base border-2 border-white/30 text-white hover:bg-white/10 transition-all"
@@ -166,7 +166,7 @@ export default function Home() {
           </p>
           <div className="flex flex-wrap gap-4 justify-center">
             <a
-              href="https://api.whatsapp.com/send?phone=5534991133526&text=Olá! Gostaria de mais informações sobre os móveis."
+              href="https://api.whatsapp.com/send?phone=5534991818080&text=Olá! Gostaria de mais informações sobre os móveis."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-8 py-4 rounded-xl font-bold text-base transition-all hover:opacity-90"

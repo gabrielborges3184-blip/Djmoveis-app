@@ -53,17 +53,17 @@ export default function StoreInfo() {
                 <h2 className="font-bold text-gray-800 text-lg" style={{ fontFamily: "Montserrat, sans-serif" }}>Contato</h2>
               </div>
               <div className="space-y-3">
+                <a href="tel:+5534991818080" className="flex items-center gap-3 text-gray-700 hover:text-[#D4A017] transition-colors">
+                  <Phone size={16} className="text-gray-400" />
+                  (34) 99181-8080
+                </a>
                 <a href="tel:+5534991133526" className="flex items-center gap-3 text-gray-700 hover:text-[#D4A017] transition-colors">
                   <Phone size={16} className="text-gray-400" />
-                  (34) 9911-3526
+                  (34) 99113-3526
                 </a>
                 <a href="tel:+5534996807663" className="flex items-center gap-3 text-gray-700 hover:text-[#D4A017] transition-colors">
                   <Phone size={16} className="text-gray-400" />
-                  (34) 9968-0766
-                </a>
-                <a href="tel:+5534321612117" className="flex items-center gap-3 text-gray-700 hover:text-[#D4A017] transition-colors">
-                  <Phone size={16} className="text-gray-400" />
-                  (34) 3216-1217
+                  (34) 99680-7663
                 </a>
               </div>
             </div>
@@ -145,7 +145,7 @@ export default function StoreInfo() {
                 Tire suas dúvidas, faça seu pedido ou agende uma visita pelo WhatsApp.
               </p>
               <a
-                href="https://api.whatsapp.com/send?phone=5534991133526&text=Olá! Gostaria de mais informações sobre os móveis da DJ Móveis."
+                href="https://api.whatsapp.com/send?phone=5534991818080&text=Olá! Gostaria de mais informações sobre os móveis da DJ Móveis."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 px-8 py-4 rounded-xl font-bold text-base transition-all hover:opacity-90 w-full justify-center"
