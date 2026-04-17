@@ -44,3 +44,9 @@
 - [x] Atualizar números de contato: (34) 99181-8080 (WhatsApp), (34) 99113-3526, (34) 99680-7663
 - [x] Alterar texto de entrega de "Em até 70 km" para "Entrega Grátis para toda Uberlândia"
 - [x] Alterar parcelamento: Cartão Brasil Card até 36x, Cartão de Crédito até 18x
+
+## Mobile Apps
+- [x] Instalar e configurar Capacitor
+- [x] Configurar ícones e splash screens para iOS e Android
+- [x] Preparar projeto para gerar APK para Android
+- [x] Preparar projeto para gerar .ipa para iOS
